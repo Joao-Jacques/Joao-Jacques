@@ -1,16 +1,16 @@
 <header>
-<h1>Hi, I’m João Jacques, a 21-year-old Student and Developer.</h1>
-<h5>
+<h1>Hi, I’m João Jacques, a 21-year-old Brazilian Student and Developer</h1>
+<h4>
 I’m passionate about software engineering, data science, web development, and technology, as well as all types of innovation.
-Currently, I’m working on various projects and pursuing my studies, always seeking opportunities to practice and expand my knowledge.
-</h5>
+Currently working on various projects and pursuing my studies, always looking for opportunities to practice and expand my knowledge.
+</h4>
 <table align="center">
   <tr>
     <td style="text-align: center; vertical-align: middle;">
       <a href="https://www.linkedin.com/school/pucrs/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQH_yE9x9ddXkg/company-logo_200_200/company-logo_200_200/0/1696529966936?e=1740614400&v=beta&t=YI-Xp3V9NwRTzvOBfcQ7-s7onhmaWiQj-Lj6VTS7LIE" width="100" alt="PUCRS"></a> 
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <h4>I am currently studying Systems Analysis and Development at PUCRS College - (2024 - 2027</h4>
+      <h5>I am currently studying Systems Analysis and Development at PUCRS College - (2024 - 2027)</h5>
     </td>
   </tr>
 </table>
@@ -21,7 +21,7 @@ Currently, I’m working on various projects and pursuing my studies, always see
       <a href="https://www.linkedin.com/company/indata-digital/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQHVW4b6bdS2JA/company-logo_200_200/company-logo_200_200/0/1730998000441/indata_digital_logo?e=1740614400&v=beta&t=UZrBifdZedllfZCpb8ZGjJ6Ipl3f5dvvGURU6t0Jjqo" width="100" alt="InData"></a> 
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <h4>As a Developer: Utilizing AI-driven tools and frameworks, including prompt engineering, data validation, and DevOps practices.</h4>
+      <h5>As a Developer: Utilizing AI-driven tools and frameworks, including prompt engineering, data validation, and DevOps practices.</h5>
     </td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@ Currently, I’m working on various projects and pursuing my studies, always see
       <a href="https://www.linkedin.com/company/we-conecta/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C560BAQE1ZY2BHYApWw/company-logo_200_200/company-logo_200_200/0/1655304313913/we_conecta_logo?e=1740614400&v=beta&t=EiWSCCOyhjPlyotd6wZolDD1mKuGtFVtDjAdB3PnCik" width="100" alt="WeConecta"></a> 
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <h4>As a Developer for AI Projects: working with algorithms for chronic disease prevention and risk classification, leveraging diverse technologies to deliver impactful solutions.</h4>
+      <h5>As a Developer for AI Projects: working with algorithms for chronic disease prevention and risk classification, leveraging diverse technologies to deliver impactful solutions.</h5>
     </td>
   </tr>
 </table>
