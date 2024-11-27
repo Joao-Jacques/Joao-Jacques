@@ -28,28 +28,6 @@ Currently working on various projects and pursuing my studies, always looking fo
   </tr>
 </table>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<!-- Github stats -->
-<H2>Git stats:</H2>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Joao-Jacques&show_icons=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Joao-Jacques&show_icons=true&text_color=ffffff&icon_color=ffffff&bg_color=ffffff00"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Joao-Jacques&show_icons=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000"
-      alt="GitHub Stats"
-    />
-  </picture>
-  <!-- Top Languages Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Jacques&layout=compact&text_color=ffffff&bg_color=00000000"
-    alt="Top Languages"
-  />
-</div>
 <!-- Companys -->
 </div>
   <H2>I am currently working on two solutions:</H2>
