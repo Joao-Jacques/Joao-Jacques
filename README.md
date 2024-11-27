@@ -14,6 +14,22 @@ Currently working on various projects and pursuing my studies, always looking fo
     </td>
   </tr>
 </table>
+<div align="center">
+  <picture style="text-align: center; vertical-align: middle;">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Joao-Jacques&show_icons=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Joao-Jacques&show_icons=true&text_color=ffffff&icon_color=ffffff&bg_color=ffffff00"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Joao-Jacques&show_icons=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000"
+      alt="GitHub Stats"
+    />
+  </picture>
+</div>
   <H2>I am currently working on two solutions:</H2>
 <table align="center">
   <tr>
