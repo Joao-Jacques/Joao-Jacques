@@ -1,10 +1,15 @@
+<!-- Readme -->
 <header>
 <h1>Hi, I’m João Jacques, a 21-year-old Brazilian Student and Developer</h1>
 <h4>
 I’m passionate about software engineering, data science, web development, and technology, as well as all types of innovation.
 Currently working on various projects and pursuing my studies, always looking for opportunities to practice and expand my knowledge.
 </h4>
-<table align="center">
+</header>
+<body>
+<!-- Education -->
+<table>
+    <H2>Education and Specialization:</H2>
   <tr>
     <td style="text-align: center; vertical-align: middle;">
       <a href="https://www.linkedin.com/school/pucrs/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQH_yE9x9ddXkg/company-logo_200_200/company-logo_200_200/0/1696529966936?e=1740614400&v=beta&t=YI-Xp3V9NwRTzvOBfcQ7-s7onhmaWiQj-Lj6VTS7LIE" width="100" alt="PUCRS"></a> 
@@ -13,9 +18,19 @@ Currently working on various projects and pursuing my studies, always looking fo
       <h5>I am currently studying Systems Analysis and Development at PUCRS College - (2024 - 2027)</h5>
     </td>
   </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <a href="https://coursera.org/share/3a8f54f2898950863d58e4284a6c1ddd" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_100_100/company-logo_100_100/0/1631307390795?e=1740614400&v=beta&t=MAH92b39pz9FfgWHD4FlnXQaCvlh7RIGGysesDwrM_s" width="100" alt="Python"></a> 
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <h5>Python Specialization Course - Coursera, offered by the University of Michigan - (2024 - 2024)</h5>
+    </td>
+  </tr>
 </table>
-<div align="center">
-  <picture style="text-align: center; vertical-align: middle;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<!-- Github stats -->
+<H2>Git stats:</H2>
+  <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Joao-Jacques&show_icons=true&text_color=ffffff&icon_color=ffffff&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
@@ -29,6 +44,13 @@ Currently working on various projects and pursuing my studies, always looking fo
       alt="GitHub Stats"
     />
   </picture>
+  <!-- Top Languages Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Jacques&layout=compact&text_color=ffffff&bg_color=00000000"
+    alt="Top Languages"
+  />
+</div>
+<!-- Companys -->
 </div>
   <H2>I am currently working on two solutions:</H2>
 <table align="center">
@@ -49,9 +71,9 @@ Currently working on various projects and pursuing my studies, always looking fo
     </td>
   </tr>
 </table>
-
+<!-- Technologies -->
 <H2>Here are some of the technologies I am currently working with or studying:</H2>
-</header>
+</body>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="100" alt="Python">
     <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="100" alt="React Native">
