@@ -30,17 +30,8 @@ Currently working on various projects and pursuing my studies, always looking fo
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 <!-- Companys -->
 </div>
-  <H2>I am currently working on two solutions:</H2>
+  <H2>I am currently working:</H2>
 <table align="center">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <a href="https://www.linkedin.com/company/indata-digital/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQHVW4b6bdS2JA/company-logo_200_200/company-logo_200_200/0/1730998000441/indata_digital_logo?e=1740614400&v=beta&t=UZrBifdZedllfZCpb8ZGjJ6Ipl3f5dvvGURU6t0Jjqo" width="100" alt="InData"></a> 
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <h5>As a Developer: Utilizing AI-driven tools and frameworks, including prompt engineering, data validation, and DevOps practices.</h5>
-    </td>
-  </tr>
-  <tr>
     <td style="text-align: center; vertical-align: middle;">
       <a href="https://www.linkedin.com/company/we-conecta/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C560BAQE1ZY2BHYApWw/company-logo_200_200/company-logo_200_200/0/1655304313913/we_conecta_logo?e=1740614400&v=beta&t=EiWSCCOyhjPlyotd6wZolDD1mKuGtFVtDjAdB3PnCik" width="100" alt="WeConecta"></a> 
     </td>
