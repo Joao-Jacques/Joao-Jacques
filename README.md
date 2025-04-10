@@ -20,7 +20,7 @@ Currently working on various projects and pursuing my studies, always looking fo
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">
-      <a href="https://coursera.org/share/3a8f54f2898950863d58e4284a6c1ddd" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_100_100/company-logo_100_100/0/1631307390795?e=1740614400&v=beta&t=MAH92b39pz9FfgWHD4FlnXQaCvlh7RIGGysesDwrM_s" width="100" alt="Python"></a> 
+      <a href="https://coursera.org/share/3a8f54f2898950863d58e4284a6c1ddd" target="_blank"><img src="https://yt3.googleusercontent.com/ytc/AIdro_nJteQVkAu1W-rpXrFWo7gtxHLfVfhdNnneD_8MCVGdeMc=s900-c-k-c0x00ffffff-no-rj" width="100" alt="Python"></a> 
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <h5>Python Specialization Course - Coursera, offered by the University of Michigan - (2024 - 2024)</h5>
@@ -33,7 +33,7 @@ Currently working on various projects and pursuing my studies, always looking fo
   <H2>I am currently working:</H2>
 <table align="center">
     <td style="text-align: center; vertical-align: middle;">
-      <a href="https://www.linkedin.com/company/we-conecta/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C560BAQE1ZY2BHYApWw/company-logo_200_200/company-logo_200_200/0/1655304313913/we_conecta_logo?e=1740614400&v=beta&t=EiWSCCOyhjPlyotd6wZolDD1mKuGtFVtDjAdB3PnCik" width="100" alt="WeConecta"></a> 
+      <a href="https://www.linkedin.com/company/we-conecta/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C560BAQE1ZY2BHYApWw/company-logo_200_200/company-logo_200_200/0/1655304313913/we_conecta_logo?e=1749686400&v=beta&t=ukTBz99XRuUQu1kOGFCoasltJuigsE-7nqVOXq1nQxw" width="100" alt="WeConecta"></a> 
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <h5>As a Developer for AI Projects: working with algorithms for chronic disease prevention and risk classification, leveraging diverse technologies to deliver impactful solutions.</h5>
