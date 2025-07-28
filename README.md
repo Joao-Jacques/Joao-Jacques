@@ -12,7 +12,7 @@ Currently working on various projects and pursuing my studies, always looking fo
     <H2>Education and Specialization:</H2>
   <tr>
     <td style="text-align: center; vertical-align: middle;">
-      <a href="https://www.linkedin.com/school/pucrs/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQH_yE9x9ddXkg/company-logo_200_200/company-logo_200_200/0/1696529966936?e=1749686400&v=beta&t=uz-x4o6Z6XGrYZbFHTSs7nw4vTXZZuta3yo6bpf3MGI" width="100" alt="PUCRS"></a> 
+      <a href="https://www.linkedin.com/school/pucrs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bras%C3%A3o_PUCRS.png/250px-Bras%C3%A3o_PUCRS.png" width="100" alt="PUCRS"></a> 
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <h5>I am currently studying Systems Analysis and Development at PUCRS College - (2024 - 2027)</h5>
@@ -33,7 +33,7 @@ Currently working on various projects and pursuing my studies, always looking fo
   <H2>I am currently working:</H2>
 <table align="center">
     <td style="text-align: center; vertical-align: middle;">
-      <a href="https://www.linkedin.com/company/we-conecta/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C560BAQE1ZY2BHYApWw/company-logo_200_200/company-logo_200_200/0/1655304313913/we_conecta_logo?e=1749686400&v=beta&t=ukTBz99XRuUQu1kOGFCoasltJuigsE-7nqVOXq1nQxw" width="100" alt="WeConecta"></a> 
+      <a href="https://www.linkedin.com/company/we-conecta/" target="_blank"><img src="https://inovastartups.com.br/wp-content/uploads/2023/08/weconecta.png" width="100" alt="WeConecta"></a> 
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <h5>As a Developer for AI Projects: working with algorithms for chronic disease prevention and risk classification, leveraging diverse technologies to deliver impactful solutions.</h5>
