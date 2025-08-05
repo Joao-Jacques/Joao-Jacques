@@ -15,6 +15,7 @@ Currently working on various projects and pursuing my studies, always looking fo
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Jacques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Jacques&layout=compact&langs_count=6&theme=dark"/>
 </div>
+<h4>Most of my projects are in private repositories :/</h4>
 <!-- Education -->
 <table>
     <H2>Education and Specialization:</H2>
