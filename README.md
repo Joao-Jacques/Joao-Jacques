@@ -45,8 +45,15 @@ Currently working on various projects and pursuing my studies, always looking fo
       <a href="https://www.linkedin.com/company/we-conecta/" target="_blank"><img src="https://inovastartups.com.br/wp-content/uploads/2023/08/weconecta.png" width="100" alt="WeConecta"></a> 
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <h5>As a Developer for AI Projects: working with algorithms for chronic disease prevention and risk classification, leveraging diverse technologies to deliver impactful solutions.</h5>
+      <h5>As a Developer for WebAPPs and AI Projects: working with algorithms for chronic disease prevention and risk classification, leveraging diverse technologies to deliver impactful solutions.</h5>
     </td>
+  </tr>
+  <td style="text-align: center; vertical-align: middle;">
+      <a href=https://www.tjrs.jus.br/novo/busca/wp-content/themes/tjrs/images/img/logo.png" target="_blank"><img src="https://www.tjrs.jus.br/novo/busca/wp-content/themes/tjrs/images/img/logo.png" width="100" alt="TJRS"></a> 
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <h5> As a systems support analyst, primarily focused on handling access requests and support tickets for the main systems used by the Court of Justice throughout the state of Rio Grande do Sul</h5>
+    </td> 
   </tr>
 </table>
 <!-- Technologies -->
