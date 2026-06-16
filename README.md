@@ -47,14 +47,6 @@ Currently working on various projects and pursuing my studies, always looking fo
     <td style="text-align: center; vertical-align: middle;">
       <h5>As a Developer for WebAPPs and AI Projects: working with algorithms for chronic disease prevention and risk classification, leveraging diverse technologies to deliver impactful solutions.</h5>
     </td>
-  </tr>
-  <td style="text-align: center; vertical-align: middle;">
-      <a href="https://br.linkedin.com/company/tjrs" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEoIA0qqa_T8w/company-logo_200_200/company-logo_200_200/0/1713979726831/tjrs_logo?e=2147483647&v=beta&t=HEWaxjmAe_oZwFtB7mwD12oN7d9kZbBPtQPgxhI66BA" width="100" alt="TJRS"></a> 
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <h5> As a systems support analyst, primarily focused on handling access requests and support tickets for the main systems used by the Court of Justice throughout the state of Rio Grande do Sul</h5>
-    </td> 
-  </tr>
 </table>
 <!-- Technologies -->
 <H2>Here are some of the technologies I am currently working with or studying:</H2>
