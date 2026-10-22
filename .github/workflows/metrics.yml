@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "0 9 * * *" # 06:00 BRT
   workflow_dispatch:
+  # The commit made by this workflow uses GITHUB_TOKEN, so it does not retrigger itself
+  push:
+    branches: [main]
 
 jobs:
   github-metrics:

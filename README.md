@@ -12,7 +12,7 @@ I'm currently working on several projects alongside my studies, always looking f
 <table>
   <tr>
     <td align="center" width="140">
-      <a href="https://www.linkedin.com/company/we-conecta/"><img src="https://img.shields.io/badge/WeConecta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="WeConecta"></a>
+      <a href="https://www.linkedin.com/company/we-conecta/"><img src="assets/weconecta.png" width="100" alt="WeConecta"></a>
     </td>
     <td>
       <b>Developer, Web Apps and AI Projects</b><br>
